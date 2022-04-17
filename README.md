@@ -39,7 +39,7 @@ class Model {
 
 Pretty straight forward just add it using the activate command and you're ready to use it.
 
-`dart pub activate dart_converters`
+`dart pub global activate dart_converters`
 
 
 `dart_converters snakeToCamel <file_path> --apply`
