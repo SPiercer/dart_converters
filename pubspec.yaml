@@ -1,6 +1,7 @@
 name: dart_converters
-description: ⚡ CLI to do various file conversions ⚡
+description: CLI to do various file conversions
 version: 0.0.1
+homepage: https://github.com/SPiercer/dart_converters
 
 environment:
   sdk: '>=2.16.2 <3.0.0'
