@@ -1,7 +1,6 @@
 import 'dart:convert';
 import 'dart:io';
 import 'package:args/command_runner.dart';
-import 'package:dart_converters/src/config.dart';
 import 'package:recase/recase.dart';
 
 class GenerateStrings extends Command {
