@@ -1,14 +1,15 @@
 name: dart_converters
-description: CLI to do various file conversions
-version: 0.0.2
+description: CLI to do various file conversions such convertion to camelCase and generate localizations arb maps
+version: 0.0.3
 homepage: https://github.com/SPiercer/dart_converters
 
 environment:
-  sdk: '>=2.16.2 <3.0.0'
+  sdk: ">=3.0.0 <4.0.0"
 
 dev_dependencies:
   lints: ^1.0.0
-dependencies: 
+dependencies:
   args: ^2.3.0
+  recase: ^4.1.0
 executables:
   dart_converters: dart_converters
